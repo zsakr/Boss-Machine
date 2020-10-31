@@ -1,4 +1,4 @@
-# Boss Machine
+# Boss Machine with Code Academy
 
 ## Project Overview
 
